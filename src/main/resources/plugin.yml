@@ -1,0 +1,49 @@
+name: AshGuardAll
+version: 4.20.42
+api-version: 1.16
+author: probox_injet
+main: com.proboxinjet.ashguardall.AshGuardAll
+commands:
+  setup:
+    description: Setup Map
+  start:
+    description: Start the game
+  c:
+    description: Permet de se mettre en creatif
+  s:
+    description: Permet de se mettre en survie
+  sp:
+    description: Permet de se mettre en spectateur
+  a:
+    description: Permet de se mettre en aventure
+  alert:
+    description: Ceci est un broadcast custom
+    permission: bc.use
+  spawn:
+    description: Permet de se tp au spawn
+  tpmap:
+    description: Permet de se tp aleatoirement
+  nether:
+    description: Permet de se tp au nether
+  end:
+    description: Permet de se tp a l'end
+  world:
+    description: Permet de se tp dans l'overworld
+  setspawn:
+    description: Permet de set le point de spawn pour la command /spawn
+  sethome:
+    description: Permet de creer un home
+  home:
+    description: Permet de se tp au home
+  delhome:
+    description: Permet surprimer son home
+  info:
+    description: Permet de voir l'etat du plugin
+  information:
+    description: Permet de voir l'etat du plugin
+  enable:
+    description: Permet d'activer le plugin
+  disable:
+    description: Permet de desactiver le plugin
+  event:
+    description: Permet de generer un coffre aleatoirement sur la map

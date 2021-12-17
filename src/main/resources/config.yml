@@ -1,0 +1,10 @@
+msgs:
+  info: "§cInformation:\n§cNiveau §4BetaTest\n§r------------------------------\n§eNom du plugin: §bAshGuardAll\n§eVersion: §b1.9\n§eAuteur: §bprobox_injet\n§r------------------------------\n§cÉtat du plugin\n§eAshguardAll: "
+  cmds:
+    error:
+      op: "§4Vous n'avez pas les permissions pour executer cette commande!"
+      disable: "§dLa command est désactivée pour le moment!"
+      plugin: "\n§3\n§3    /sethome; /home; /delhome;\n§3           /spawn; /tpmap\n§b\n§b----------------------------\n"
+      pluginOp: "§b------------Admin------------\n§3   /s; /c; /sp; /a; /world; /nether;\n§3                  /end\n§b\n§b----------------------------"
+    tp:
+      spawn: "§bVous venez d'être tp au spawn"
